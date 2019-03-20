@@ -14,6 +14,7 @@
 
 ### Portfolio
 
+## Online Stage
 - *[CODEWARS](https://www.codewars.com/users/Nadezhda_Leshchevich)*
 - *Task 8 [ConvertAHexStringToRGB](https://github.com/nadzeay/08-convert-a-hex-string-to-rgb.git)*
 - *Task 13 [ManipulateURLParameters](https://github.com/nadzeay/13-manipulate-url-parameters.git)*
@@ -35,3 +36,6 @@
 - *[PadawansTask12](https://github.com/nadzeay/PadawansTask12.git)*
 - *[PadawansTask13](https://github.com/nadzeay/PadawansTask13.git)*
 - *[PadawansTask15](https://github.com/nadzeay/PadawansTask15.git)*
+
+## Offline Stage
+- *[NET1.S.2019.Leshchevish.01](https://github.com/nadzeay/.NET-Training.-Spring-2019/tree/master/NET1.S.2019.Leshchevish.01)*

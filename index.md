@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+### About me
 
-You can use the [editor on GitHub](https://github.com/nadzeay/nadzeay.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+*My name is Nadzezhda Leshchevich. I graduated from Polotsk State Economic college in 2015. I studied information technologies and software development at the college. At present, I study a higher education at BSUIR (distance leaning), major in the same field.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skills
 
-### Markdown
+**Delphi, Pascal, C/C++, Java, C#, PHP, SQL, HTML, CSS, 1C, Visual Studio 2017, IntelliJ IDEA, Qt.**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contacts
 
-```markdown
-Syntax highlighted code block
+- *Email: nadezhda.lechevich@gmail.com*
+- *Skype: nadzeiy_liy*
+- *Phone: +375 29 811 97 28*
 
-# Header 1
-## Header 2
-### Header 3
+### Portfolio
 
-- Bulleted
-- List
+- *[CODEWARS](https://www.codewars.com/users/Nadezhda_Leshchevich)*
+- *Task 8 [ConvertAHexStringToRGB](https://github.com/nadzeay/08-convert-a-hex-string-to-rgb.git)*
+- *Task 13 [ManipulateURLParameters](https://github.com/nadzeay/13-manipulate-url-parameters.git)*
+- *[The first 20 numbers in the sequence](https://github.com/nadzeay/fibonacci-sequence.git)*
+- *[Tic Tac Toe](https://github.com/nadzeay/tic-tac-toe.git)*
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nadzeay/nadzeay.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- *[FancyCalc](https://github.com/nadzeay/FancyCalc.git)*
+- *[PadawansTask1](https://github.com/nadzeay/PadawansTask1.git)*
+- *[PadawansTask2](https://github.com/nadzeay/PadawansTask2.git)*
+- *[PadawansTask3](https://github.com/nadzeay/PadawansTask3.git)*
+- *[PadawansTask4](https://github.com/nadzeay/PadawansTask4.git)*
+- *[PadawansTask5](https://github.com/nadzeay/PadawansTask5.git)*
+- *[PadawansTask6](https://github.com/nadzeay/PadawansTask6.git)*
+- *[PadawansTask7](https://github.com/nadzeay/PadawansTask7.git)*
+- *[PadawansTask8](https://github.com/nadzeay/PadawansTask8.git)*
+- *[PadawansTask9](https://github.com/nadzeay/PadawansTask9.git)*
+- *[PadawansTask10](https://github.com/nadzeay/PadawansTask10.git)*
+- *[PadawansTask11](https://github.com/nadzeay/PadawansTask11.git)*
+- *[PadawansTask12](https://github.com/nadzeay/PadawansTask12.git)*
+- *[PadawansTask13](https://github.com/nadzeay/PadawansTask13.git)*
+- *[PadawansTask15](https://github.com/nadzeay/PadawansTask15.git)*
